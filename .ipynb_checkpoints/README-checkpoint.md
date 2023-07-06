@@ -16,6 +16,11 @@ Customers can select a candidate and set the number of work hours required in th
 ![Customer balance](Images/customer_balance.png)  
 Within Ganache, the customer's balance can be found under the `ACCOUNTS` section.
 
+### Block details
+![Block details 01](Images/block_details_01.png)  
+![Block details 02](Images/block_details_02.png)  
+Within Ganache, information relating to the block can be found under the `BLOCKS` section. Clicking on the newest block will open the block's details.
+
 ### Transaction details
 ![Transaction details 01](Images/transaction_details_01.png)  
 ![Transaction details 02](Images/transaction_details_02.png)  
