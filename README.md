@@ -16,6 +16,10 @@ Customers can select a candidate and set the number of work hours required in th
 ![Customer balance](Images/customer_balance.png)  
 Within Ganache, the customer's balance can be found under the `ACCOUNTS` section.
 
+### Candidate balance
+![Candidate balance](Images/candidate_balance.png)  
+Within Ganache, the candidate's balance can be found under the `ACCOUNTS` section.
+
 ### Block details
 ![Block details 01](Images/block_details_01.png)  
 ![Block details 02](Images/block_details_02.png)  
