@@ -20,3 +20,8 @@ Within Ganache, the customer's balance can be found under the `ACCOUNTS` section
 ![Transaction details 01](Images/transaction_details_01.png)  
 ![Transaction details 02](Images/transaction_details_02.png)  
 Within Ganache, information relating to the transaction can be found under the `TRANSACTIONS` section. Clicking on the transaction will open the transaction's details.
+
+## Other information
+- All work for the application interface can be found in the [krypto_jobs.py](https://github.com/julianritchey/blockchain-wallets-homework/blob/main/krypto_jobs.py) file.
+- All relating to wallet connectivity can be found in the [crypto_wallet.py](https://github.com/julianritchey/blockchain-wallets-homework/blob/main/crypto_wallet.py) file.
+- All images used in this assignment can be found in the [Images](https://github.com/julianritchey/blockchain-wallets-homework/blob/main/Images/) folder.
